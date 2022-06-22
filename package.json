@@ -1,0 +1,23 @@
+{
+  "name": "ts-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khmaladze-tiko/TS-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khmaladze-tiko/TS-task/issues"
+  },
+  "homepage": "https://github.com/khmaladze-tiko/TS-task#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
