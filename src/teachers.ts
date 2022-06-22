@@ -1,4 +1,4 @@
-interface teacher {
+interface Teacher {
     firstName: string;
     lastName: string;
     age: number;
@@ -6,3 +6,4 @@ interface teacher {
     lessonName: string;
     email: string;
 }
+
